@@ -1,8 +1,8 @@
 # Build-A-Neural-Network-From-Scratch
 
-## A simple Neural Network from scratch(One input,one output with no hidden layer
+### A simple Neural Network from scratch(One input,one output with no hidden layer)
 
-###### Steps to follow:
+#### Steps to follow:
 
 1.  Define independent variables and dependent variable
 2.    Define Hyperparameters
