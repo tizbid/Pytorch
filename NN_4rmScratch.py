@@ -21,7 +21,8 @@ input_set = np.array([[0,1,0],
                       [1,1,0],
                       [1,1,1],
                       [0,1,1],
-                      [0,1,0]])#Dependent variable
+                      [0,1,0]])
+#Dependent variable
 labels = np.array([[1,
                     0,
                     0,
