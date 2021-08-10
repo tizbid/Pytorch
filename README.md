@@ -1,9 +1,8 @@
 ## Pytorch
 
-#### This repo contains scripts about my NeuralNetwork knowlegde base using exclusively Pytorch framework.
+#### This repo contains introduction to Neural Network,using solely Pytorch framework .
 
-* Tutorials
-* Projects
+
 
 
 
